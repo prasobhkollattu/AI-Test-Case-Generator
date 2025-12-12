@@ -150,6 +150,7 @@ This project demonstrates:
 
 <img width="1587" height="875" alt="image" src="https://github.com/user-attachments/assets/8d1d13da-06f5-4bb0-b0e3-facaf3b52c9c" />
 
+<img width="1471" height="810" alt="image" src="https://github.com/user-attachments/assets/4ebd2241-014b-44de-ac87-44d93a7c5dbc" />
 
 ---
 
