@@ -1,0 +1,28 @@
+# AI Test Case Generator - Python 3.13 Compatible
+# ================================================
+
+# Web framework
+fastapi>=0.100.0
+
+# ASGI server
+uvicorn[standard]>=0.24.0
+
+# Transformers (latest for Python 3.13)
+transformers>=4.40.0
+
+# PyTorch (Python 3.13 compatible)
+torch>=2.0.0
+
+# Datasets
+datasets>=2.14.0
+
+# Pydantic (Python 3.13 compatible - no Rust needed!)
+pydantic>=2.6.0
+
+# Accelerate
+accelerate>=0.24.0
+
+# Additional dependencies
+numpy>=1.24.0
+filelock>=3.12.0
+requests>=2.31.0
