@@ -142,13 +142,8 @@ This project demonstrates:
 - ✅ Testing Domain Expertise
 
 ---
+<img width="2047" height="895" alt="image" src="https://github.com/user-attachments/assets/2b534282-9be8-4f1a-81be-11313c52213f" />
 
-## 📧 Contact
-
-[Your Wife's Name]  
-Email: [email]  
-LinkedIn: [linkedin]  
-GitHub: [github]
 
 ---
 
