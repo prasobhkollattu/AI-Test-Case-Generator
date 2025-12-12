@@ -2,9 +2,6 @@
 
 **Automatically generate comprehensive test cases using AI**
 
-Built by: Surya Sudha
-Skills Demonstrated: Python, Machine Learning, NLP, FastAPI, Web Development
-
 ---
 
 ## 🎯 Features
